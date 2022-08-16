@@ -1,0 +1,14 @@
+Vector is dynamic array
+capacity will increase double i.e
+
+1->1
+2->2
+3->4
+4->4
+5->8
+6->8
+7->8
+8->8
+9->16
+
+as so on;
